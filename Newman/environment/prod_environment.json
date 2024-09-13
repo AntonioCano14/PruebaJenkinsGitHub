@@ -1,7 +1,7 @@
 {
   "_": {
     "postman_variable_scope": "environment",
-    "postman_exported_at": "2024-09-11T17:14:59.237Z",
+    "postman_exported_at": "2024-09-11T17:15:03.050Z",
     "postman_exported_using": "Newman/6.2.1"
   },
   "id": "73d1b911-38fa-4850-b26f-1cad6f1b32f9",
@@ -14,7 +14,7 @@
     },
     {
       "type": "any",
-      "value": "https://i0000.clarodrive.com",
+      "value": "https://i0001.clarodrive.com",
       "key": "instance"
     },
     {
@@ -34,12 +34,12 @@
     },
     {
       "type": "any",
-      "value": "603817739854bf169a44135d",
+      "value": "62290cdeae49e969254f2394",
       "key": "USER_ID"
     },
     {
       "type": "any",
-      "value": "6wvggUH1jyYmKu8VbPI2mHG5gpYaiyo2vb1ltpbcsSQ=:2XyMtyutzGJLeb5HPrNk0Dna7N1V00lE0Isz9NXs+lU=",
+      "value": "F0pd6XZeZUyTDMnA6mt0LUjnf7NYNBm/Unf5kdlP2tw=:IT1opRI/Vg3GS+b43zMBfh/UOMQPG0DMCAKL65E5tpg=",
       "key": "CSRF"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "type": "any",
-      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI2MDM4MTc3Mzk4NTRiZjE2OWE0NDEzNWQiLCJwcm92aWRlciI6ImVtYWlsIiwidXBkYXRlYWJsZSI6dHJ1ZSwiY291bnRyeSI6Ik1YIiwiaXNGYW1pbHlQbGFuR3Vlc3QiOmZhbHNlLCJzZXNzaW9uIjoiKGFicGg1bm9qYWc1MHBxZzkzZ3YzbWZhYmY1KSIsImV4cCI6MTg1MjMwNTIwMSwibmV3IjpmYWxzZSwiZW1haWwiOiJhY3BuNi4xQGdldG5hZGEuY29tIiwiZW1haWxIYXNoZWQiOiI5ZjIxNzUwZWIwZjVjNDI2NzQyMDU4ZDc3MzA3Zjc4ZDNjNDc5ZTM5ZDRjN2Q5ZDY1Zjc2NTRmMGYwODUwYTBiIiwiZGlzcGxheW5hbWUiOiJOb21icmUgQXBlbGxpZG8gbnVldm8iLCJwaG9uZSI6ZmFsc2UsImxhbmd1YWdlIjoiZXNfTVgiLCJxdW90YSI6IjIwMEciLCJnYXRld2F5IjoiY2xhcm9wYWdvc2dhdGUiLCJpbnN0YW5jZSI6Imh0dHBzOlwvXC9pMDAwMC5jbGFyb2RyaXZlLmNvbVwvIn0.lk4FAJKFaqRtiY3iKCsbqWU8y3zViVtlGV8MokhAqs8",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI2MjI5MGNkZWFlNDllOTY5MjU0ZjIzOTQiLCJwcm92aWRlciI6ImVtYWlsIiwidXBkYXRlYWJsZSI6dHJ1ZSwiY291bnRyeSI6Ik1YIiwiaXNGYW1pbHlQbGFuR3Vlc3QiOmZhbHNlLCJzZXNzaW9uIjoiKDRjVkpnT0M5U3VGUWVaeGdjbDFTbFU5OUxyVUQ3akdjakZiQmZFVEZlaDQ9KSIsImV4cCI6MTg1MjQ4NTA2NywibmV3IjpmYWxzZSwiZW1haWwiOiJjZGkwMDFwcm9nQGdtYWlsLmNvbSIsImVtYWlsSGFzaGVkIjoiNTQyODVkY2NlYzkxNmE2OWY4Y2Q1ZGVkMzViNWM3YzI0ZjczOGE5ODBjMjA3NDI1NTQ2OTZmMzI0ZWI2MzVlOSIsImRpc3BsYXluYW1lIjoiM2UgU2VwdGltbyBJbnRlbnRvYWEiLCJwaG9uZSI6ZmFsc2UsImxhbmd1YWdlIjoiZXNfTVgiLCJxdW90YSI6IjEwMEciLCJnYXRld2F5IjoiYW1jb2dhdGUiLCJpbnN0YW5jZSI6Imh0dHBzOlwvXC9pMDAwMS5jbGFyb2RyaXZlLmNvbVwvIn0.KZUj4HlNrmKBh1j-pJz7omOWGh2Brx7JdNP7KWecEco",
       "key": "USER_ENCODED"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "type": "any",
-      "value": "139",
+      "value": "143",
       "key": "USER_PLAN_ID"
     },
     {
@@ -109,6 +109,6 @@
     }
   ],
   "_postman_variable_scope": "environment",
-  "_postman_exported_at": "2024-09-11T17:15:03.050Z",
+  "_postman_exported_at": "2024-09-13T19:11:18.274Z",
   "_postman_exported_using": "Newman/6.2.1"
 }
