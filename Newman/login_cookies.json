@@ -5,5 +5,130 @@
   "enableLooseMode": true,
   "allowSpecialUseDomain": true,
   "prefixSecurity": "silent",
-  "cookies": []
+  "cookies": [
+    {
+      "key": "HKS",
+      "value": "3b49a61fd877cc2de38f319ba7a06449fdd3cd69d7f3c9e45dc0779b680d2761",
+      "expires": "2024-09-17T15:16:17.000Z",
+      "maxAge": 1792,
+      "domain": "clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "hostOnly": false,
+      "creation": "2024-09-17T14:46:25.445Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z"
+    },
+    {
+      "key": "PORTAL_REGION",
+      "value": "%25AB%252A%25CA.%252BH%2502%2500",
+      "expires": "2028-09-17T14:46:28.000Z",
+      "maxAge": 126230400,
+      "domain": "clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": false,
+      "creation": "2024-09-17T14:46:25.463Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z"
+    },
+    {
+      "key": "CD_USER",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnYW1pZmljYXRpb25JZCI6ImkwMDAzLXRlc3QtMDFAZ2V0bmFkYS5jb20iLCJ1c2VyaGFzaCI6IiIsImVtYWlsIjoibnVlN0BnZXRuYWRhLmNvbSIsInByb3ZpZGVyIjoiY2xhcm9uZWdvY2lvIn0.H6mptwWhNcMFZK33sbhP_iSB6zJyLvAugO4IW5piq3Y",
+      "expires": "2024-09-17T15:46:25.000Z",
+      "maxAge": 3600,
+      "domain": "clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "hostOnly": false,
+      "creation": "2024-09-17T14:46:25.464Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z"
+    },
+    {
+      "key": "JWT_BACKEND_AUTH",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiJpMDAwMy10ZXN0LTAxQGdldG5hZGEuY29tIiwicHJvdmlkZXIiOiJjbGFyb25lZ29jaW8iLCJ1cGRhdGVhYmxlIjpmYWxzZSwiY291bnRyeSI6Ik1YIiwiaXNGYW1pbHlQbGFuR3Vlc3QiOmZhbHNlLCJzZXNzaW9uIjoiNWNiNzJkYzFhY2UyNDczZmRmOWIyYjllMjczNzgxZjdkMzY4MDkzYTEzOTNhMWM3MzMxN2QzMTM2NjA3MTk4NyIsImV4cCI6MTg1MjgxNDc4NSwibmV3IjpmYWxzZSwiZW1haWwiOiJudWU3QGdldG5hZGEuY29tIiwiZW1haWxIYXNoZWQiOiI4NDJkNWRiYzY0MTA5MmJiMzY2NjY4NWVmNmEyYmI4MjA3YjFlYTVlY2FjYmM1NjRkOWZlNTY5ZGI5NTkxYWY1IiwiZGlzcGxheW5hbWUiOiJJdmFueml0byBTZXB0aW1vIiwicGhvbmUiOmZhbHNlLCJsYW5ndWFnZSI6ImVzX01YIiwicXVvdGEiOjAsImdhdGV3YXkiOiJjbGFyb25lZ29jaW8iLCJpbnN0YW5jZSI6Imh0dHBzOlwvXC9pMDAwMy5jbGFyb2RyaXZlLmNvbVwvIn0.Wq60A0Ro08lcf4lYw2-Ox73HRhjsozokUstMNUApAbc",
+      "expires": "2028-09-17T14:46:26.000Z",
+      "maxAge": 126230400,
+      "domain": "clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": false,
+      "creation": "2024-09-17T14:46:25.464Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z"
+    },
+    {
+      "key": "oc_sessionPassphrase",
+      "value": "i9kGbGdRYW60eolEnIi5YZJ9Y%2FnAN6MH807zK6f5lsabmNtygruOx2jP4NyJBvL5BN3XSxT2IOENcrZTIurZtwwcs%2BaZBABCSn7Co03bEX%2B5UXmooVvfDJWkQ9taay%2Fx",
+      "domain": "i0003.clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": true,
+      "creation": "2024-09-17T14:46:26.635Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z",
+      "sameSite": "lax"
+    },
+    {
+      "key": "ocwzrvx4oaww",
+      "value": "smbh7ujkbu6h79emlreg8lqs9u",
+      "domain": "i0003.clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": true,
+      "creation": "2024-09-17T14:46:26.636Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z",
+      "sameSite": "lax"
+    },
+    {
+      "key": "nc_publicView",
+      "value": "i0003.clarodrive.com",
+      "expires": "2028-09-17T14:46:27.000Z",
+      "maxAge": 126230400,
+      "domain": "clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": false,
+      "creation": "2024-09-17T14:46:26.636Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z"
+    },
+    {
+      "key": "nc_session_id",
+      "value": "02feed11b4-0d49-467pFFApP5P7wVdzMoYrZAeG0Vr-HSGDuO042rEaJiDaI-bm7xME0QDj8L4VAKtO_wuqg",
+      "domain": "i0003.clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "hostOnly": true,
+      "creation": "2024-09-17T14:46:26.636Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z",
+      "sameSite": "none"
+    },
+    {
+      "key": "__Host-nc_sameSiteCookielax",
+      "value": "true",
+      "expires": "2100-12-31T23:59:59.000Z",
+      "domain": "i0003.clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": true,
+      "creation": "2024-09-17T14:46:27.627Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z",
+      "sameSite": "lax"
+    },
+    {
+      "key": "__Host-nc_sameSiteCookiestrict",
+      "value": "true",
+      "expires": "2100-12-31T23:59:59.000Z",
+      "domain": "i0003.clarodrive.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "hostOnly": true,
+      "creation": "2024-09-17T14:46:27.628Z",
+      "lastAccessed": "2024-09-17T14:46:29.980Z",
+      "sameSite": "strict"
+    }
+  ]
 }
